@@ -24,6 +24,7 @@ p {
 
 table {
     border: 10px solid #9e0059;
+    margin: 30px;
 }
 
 table, th, td {
@@ -44,9 +45,10 @@ th {
   }
 
 ul {
-    width: 800px;
     border: 15px solid #9e0059;
+    margin: 30px;
     padding: 50px;
+    width: 800px;
     list-style-type: circle;
 }
 
