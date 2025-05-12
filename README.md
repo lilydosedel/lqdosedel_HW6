@@ -9,10 +9,14 @@ This was Homework 6 for Digital Product Management, serving as a practice for ou
 ## Features
 Stylized tables, lists, and photos. 
 
-
 ## Tech Stack
 Frontend: HTML, CSS  
 Backend: N/A
+
+## How to Run
+1. Clone the repository in GitHub (git clone https://github.com/lilydosedel/lqdosedel_HW6.git)
+2. Run the site locally (npm run dev OR npm start)
+3. Deploy the site using services like Azure, Vercel, Netlify, etc.
 
 ## Credits 
 Aspects from Professor [Mike Colbert](https://github.com/mikecolbert)'s BAIS:3300 included.
