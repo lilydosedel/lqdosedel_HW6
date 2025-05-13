@@ -1,4 +1,4 @@
-# Lily's Website Practice
+# Lily's Website Practice 💻
 
 ## Description
 This was Homework 6 for Digital Product Management, serving as a practice for our final personal portfolio website. It includes two pages as a simple overview of myself and my experiences. We were tasked to include images, links, a table, a list, and various heading sizes. 
